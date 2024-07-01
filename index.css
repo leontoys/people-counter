@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("station.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -37,7 +37,7 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: red;
 }
 
 #save-btn {
